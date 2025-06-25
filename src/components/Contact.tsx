@@ -7,13 +7,13 @@ const Contact = () => {
     {
       icon: 'fa-phone',
       title: 'اتصل بنا',
-      details: ['01001160130', '01019274930'],
+      details: ['01129245339', '01129245339'],
       color: 'medical-blue'
     },
     {
       icon: 'fa-whatsapp',
       title: 'واتساب',
-      details: ['01019274930'],
+      details: ['01129245339'],
       color: 'medical-green'
     },
     {
@@ -71,19 +71,19 @@ const Contact = () => {
               <Button 
                 size="lg"
                 className="bg-white text-medical-blue hover:bg-gray-100 px-8 py-4 rounded-full text-lg font-bold"
-                onClick={() => window.open('tel:01001160130')}
+                onClick={() => window.open('tel:01129245339')}
               >
                 <i className="fas fa-phone ml-2"></i>
-                اتصل الآن: 01001160130
+                اتصل الآن: 01129245339
               </Button>
               
               <Button 
                 size="lg"
                 className="bg-green-500 hover:bg-green-600 text-white px-8 py-4 rounded-full text-lg font-bold"
-                onClick={() => window.open('https://wa.me/201019274930')}
+                onClick={() => window.open('https://wa.me/201129245339')}
               >
                 <i className="fab fa-whatsapp ml-2"></i>
-                واتساب: 01019274930
+                واتساب: 01129245339
               </Button>
             </div>
 
