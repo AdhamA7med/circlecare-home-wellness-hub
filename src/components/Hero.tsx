@@ -32,7 +32,7 @@ const Hero = () => {
             </div>
             
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-medical-navy mb-6 leading-tight">
-              <span className="text-medical-blue">مركز يحي</span>
+              <span className="text-medical-blue">CircleCare</span>
               <br />
               الرعاية الطبية
               <br />
@@ -40,7 +40,7 @@ const Hero = () => {
             </h1>
             
             <p className="text-xl text-gray-600 mb-8 leading-relaxed max-w-2xl mx-auto lg:mx-0">
-              في مركز يحي، الرعاية الطبية ليست مجرد خدمة، بل هي أمان واهتمام. 
+              في CircleCare، الرعاية الطبية ليست مجرد خدمة، بل هي أمان واهتمام. 
               نوفر لك ولأحبائك خدمات طبية وتمريضية متخصصة في راحة منزلك
             </p>
             
