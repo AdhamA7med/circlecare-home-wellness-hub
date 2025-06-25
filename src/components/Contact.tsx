@@ -88,7 +88,7 @@ const Contact = () => {
             </div>
 
             <div className="mt-8 p-6 bg-white/10 rounded-xl">
-              <h4 className="text-xl font-bold mb-3">CircleCare - بنهتم... عشان ترتاح</h4>
+              <h4 className="text-xl font-bold mb-3">مركز يحي - بنهتم... عشان ترتاح</h4>
               <p className="opacity-90">
                 رعاية طبية متخصصة وموثوقة في راحة منزلك
               </p>
