@@ -101,7 +101,7 @@ const Footer = () => {
         <div className="border-t border-gray-700 mt-8 pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center">
             <p className="text-gray-300 text-center md:text-right mb-4 md:mb-0">
-              © 2025 مركز يحي. جميع الحقوق محفوظة
+              © 2024 CircleCare. جميع الحقوق محفوظة
             </p>
             <p className="text-gray-300 text-center md:text-left">
               تم تطوير الموقع بواسطة{' '}
