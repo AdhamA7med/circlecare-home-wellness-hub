@@ -13,17 +13,17 @@ const Footer = () => {
                 <i className="fas fa-heart-pulse text-white text-xl"></i>
               </div>
               <div>
-                <h3 className="text-2xl font-bold">مركز يحي</h3>
+                <h3 className="text-2xl font-bold">CircleCare</h3>
                 <p className="text-medical-mint">الخدمات الطبية والتمريضية</p>
               </div>
             </div>
             <p className="text-gray-300 leading-relaxed mb-6">
-              في مركز يحي، نوفر لك ولأحبائك خدمات طبية وتمريضية متخصصة في راحة منزلك. 
+              في CircleCare، نوفر لك ولأحبائك خدمات طبية وتمريضية متخصصة في راحة منزلك. 
               رعاية احترافية على مدار الساعة بأيدي فريق متخصص ومؤهل.
             </p>
             <div className="flex space-x-4 space-x-reverse">
               <a 
-                href="https://wa.me/201129245339" 
+                href="https://wa.me/201019274930" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="w-10 h-10 bg-green-500 rounded-full flex items-center justify-center hover:bg-green-600 transition-colors"
@@ -31,7 +31,7 @@ const Footer = () => {
                 <i className="fab fa-whatsapp"></i>
               </a>
               <a 
-                href="tel:01129245339"
+                href="tel:01001160130"
                 className="w-10 h-10 bg-medical-blue rounded-full flex items-center justify-center hover:bg-medical-teal transition-colors"
               >
                 <i className="fas fa-phone"></i>
@@ -77,11 +77,11 @@ const Footer = () => {
             <div className="space-y-3">
               <div className="flex items-center space-x-3 space-x-reverse">
                 <i className="fas fa-phone text-medical-mint"></i>
-                <span className="text-gray-300">01129245339</span>
+                <span className="text-gray-300">01001160130</span>
               </div>
               <div className="flex items-center space-x-3 space-x-reverse">
                 <i className="fab fa-whatsapp text-medical-mint"></i>
-                <span className="text-gray-300">01129245339</span>
+                <span className="text-gray-300">01019274930</span>
               </div>
               <div className="flex items-start space-x-3 space-x-reverse">
                 <i className="fas fa-map-marker-alt text-medical-mint mt-1"></i>
@@ -106,8 +106,8 @@ const Footer = () => {
             <p className="text-gray-300 text-center md:text-left">
               تم تطوير الموقع بواسطة{' '}
               <a 
-{/*                 href="https://wa.me/201153903786" 
-                target="_blank"  */}
+                href="https://wa.me/201153903786" 
+                target="_blank" 
                 rel="noopener noreferrer"
                 className="text-medical-mint hover:text-white font-bold transition-colors"
               >

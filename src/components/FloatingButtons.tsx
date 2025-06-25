@@ -6,7 +6,7 @@ const FloatingButtons = () => {
     <div className="fixed bottom-6 left-6 z-50 flex flex-col space-y-4">
       {/* WhatsApp Button */}
       <a
-        href="https://wa.me/201129245339"
+        href="https://wa.me/201019274930"
         target="_blank"
         rel="noopener noreferrer"
         className="w-14 h-14 bg-green-500 hover:bg-green-600 rounded-full flex items-center justify-center shadow-lg hover:shadow-xl transition-all duration-300 animate-pulse-gentle"
@@ -17,7 +17,7 @@ const FloatingButtons = () => {
 
       {/* Phone Button */}
       <a
-        href="tel:01129245339"
+        href="tel:01001160130"
         className="w-14 h-14 bg-medical-blue hover:bg-medical-teal rounded-full flex items-center justify-center shadow-lg hover:shadow-xl transition-all duration-300 animate-pulse-gentle"
         title="اتصل بنا الآن"
         style={{ animationDelay: '0.5s' }}
@@ -27,7 +27,7 @@ const FloatingButtons = () => {
 
       {/* Emergency Button */}
       <a
-        href="tel:01129245339"
+        href="tel:01019274930"
         className="w-14 h-14 bg-red-500 hover:bg-red-600 rounded-full flex items-center justify-center shadow-lg hover:shadow-xl transition-all duration-300 animate-pulse-gentle"
         title="طوارئ - اتصال سريع"
         style={{ animationDelay: '1s' }}
