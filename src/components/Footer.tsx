@@ -106,8 +106,8 @@ const Footer = () => {
             <p className="text-gray-300 text-center md:text-left">
               تم تطوير الموقع بواسطة{' '}
               <a 
-{/*                 href="https://wa.me/201153903786" 
-                target="_blank"  */}
+                href="https://wa.me/201153903786" 
+                target="_blank" 
                 rel="noopener noreferrer"
                 className="text-medical-mint hover:text-white font-bold transition-colors"
               >
