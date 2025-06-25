@@ -7,13 +7,13 @@ const Contact = () => {
     {
       icon: 'fa-phone',
       title: 'اتصل بنا',
-      details: ['01001160130', '01019274930'],
+      details: ['01129245339', '01129245339'],
       color: 'medical-blue'
     },
     {
       icon: 'fa-whatsapp',
       title: 'واتساب',
-      details: ['01019274930'],
+      details: ['01129245339'],
       color: 'medical-green'
     },
     {
@@ -71,24 +71,24 @@ const Contact = () => {
               <Button 
                 size="lg"
                 className="bg-white text-medical-blue hover:bg-gray-100 px-8 py-4 rounded-full text-lg font-bold"
-                onClick={() => window.open('tel:01001160130')}
+                onClick={() => window.open('tel:01129245339')}
               >
                 <i className="fas fa-phone ml-2"></i>
-                اتصل الآن: 01001160130
+                اتصل الآن: 01129245339
               </Button>
               
               <Button 
                 size="lg"
                 className="bg-green-500 hover:bg-green-600 text-white px-8 py-4 rounded-full text-lg font-bold"
-                onClick={() => window.open('https://wa.me/201019274930')}
+                onClick={() => window.open('https://wa.me/201129245339')}
               >
                 <i className="fab fa-whatsapp ml-2"></i>
-                واتساب: 01019274930
+                واتساب: 01129245339
               </Button>
             </div>
 
             <div className="mt-8 p-6 bg-white/10 rounded-xl">
-              <h4 className="text-xl font-bold mb-3">CircleCare - بنهتم... عشان ترتاح</h4>
+              <h4 className="text-xl font-bold mb-3">مركز يحي - بنهتم... عشان ترتاح</h4>
               <p className="opacity-90">
                 رعاية طبية متخصصة وموثوقة في راحة منزلك
               </p>
