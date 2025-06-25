@@ -23,7 +23,7 @@ const Header = () => {
               <i className="fas fa-heart-pulse text-white text-xl"></i>
             </div>
             <div>
-              <h1 className="text-2xl font-bold text-medical-navy">مركز يحي</h1>
+              <h1 className="text-2xl font-bold text-medical-navy">CircleCare</h1>
               <p className="text-sm text-medical-blue">الخدمات الطبية والتمريضية</p>
             </div>
           </div>
