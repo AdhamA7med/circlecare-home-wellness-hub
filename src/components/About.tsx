@@ -8,7 +8,7 @@ const About = () => {
         <div className="text-center mb-12">
           <h2 className="text-4xl font-bold text-medical-navy mb-4">من نحن</h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-            في CircleCare، الرعاية الطبية ليست مجرد خدمة، بل هي أمان واهتمام نوفره لك ولأحبائك
+            في مركز يحي، الرعاية الطبية ليست مجرد خدمة، بل هي أمان واهتمام نوفره لك ولأحبائك
           </p>
         </div>
 
