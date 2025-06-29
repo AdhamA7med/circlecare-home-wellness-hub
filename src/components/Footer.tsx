@@ -13,17 +13,17 @@ const Footer = () => {
                 <i className="fas fa-heart-pulse text-white text-xl"></i>
               </div>
               <div>
-                <h3 className="text-2xl font-bold">مركز يحي</h3>
+                <h3 className="text-2xl font-bold">مركز الرحمة</h3>
                 <p className="text-medical-mint">الخدمات الطبية والتمريضية</p>
               </div>
             </div>
             <p className="text-gray-300 leading-relaxed mb-6">
-              في مركز يحي، نوفر لك ولأحبائك خدمات طبية وتمريضية متخصصة في راحة منزلك. 
+              في مركز الرحمة، نوفر لك ولأحبائك خدمات طبية وتمريضية متخصصة في راحة منزلك. 
               رعاية احترافية على مدار الساعة بأيدي فريق متخصص ومؤهل.
             </p>
             <div className="flex space-x-4 space-x-reverse">
               <a 
-                href="https://wa.me/201129245339" 
+                href="https://wa.me/201221401076" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="w-10 h-10 bg-green-500 rounded-full flex items-center justify-center hover:bg-green-600 transition-colors"
@@ -31,7 +31,7 @@ const Footer = () => {
                 <i className="fab fa-whatsapp"></i>
               </a>
               <a 
-                href="tel:01129245339"
+                href="tel:01221401076"
                 className="w-10 h-10 bg-medical-blue rounded-full flex items-center justify-center hover:bg-medical-teal transition-colors"
               >
                 <i className="fas fa-phone"></i>
@@ -77,11 +77,11 @@ const Footer = () => {
             <div className="space-y-3">
               <div className="flex items-center space-x-3 space-x-reverse">
                 <i className="fas fa-phone text-medical-mint"></i>
-                <span className="text-gray-300">01129245339</span>
+                <span className="text-gray-300">01221401076</span>
               </div>
               <div className="flex items-center space-x-3 space-x-reverse">
                 <i className="fab fa-whatsapp text-medical-mint"></i>
-                <span className="text-gray-300">01129245339</span>
+                <span className="text-gray-300">01221401076</span>
               </div>
               <div className="flex items-start space-x-3 space-x-reverse">
                 <i className="fas fa-map-marker-alt text-medical-mint mt-1"></i>
@@ -101,7 +101,7 @@ const Footer = () => {
         <div className="border-t border-gray-700 mt-8 pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center">
             <p className="text-gray-300 text-center md:text-right mb-4 md:mb-0">
-              © 2025 مركز يحي. جميع الحقوق محفوظة
+              © 2025 مركز الرحمة. جميع الحقوق محفوظة
             </p>
             <p className="text-gray-300 text-center md:text-left">
               تم تطوير الموقع بواسطة{' '}
