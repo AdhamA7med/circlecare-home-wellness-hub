@@ -32,7 +32,7 @@ const Hero = () => {
             </div>
             
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-medical-navy mb-6 leading-tight">
-              <span className="text-medical-blue">مركز يحي</span>
+              <span className="text-medical-blue">مركز الرحمة</span>
               <br />
               الرعاية الطبية
               <br />
